@@ -1,0 +1,31 @@
+* {
+  font-family: Georgia, "Times New Roman", Times, serif;
+  background-color: beige;
+  padding: 0px 20px 20px;
+}
+
+h1 {
+  text-align: center;
+  font-size: 30px;
+}
+
+a {
+  outline: none;
+  text-decoration: none;
+  padding: 2px 1px 0;
+}
+
+img {
+  border-radius: 10%;
+  margin: auto;
+  display: block;
+}
+
+.descripcion {
+  text-align: justify;
+  background-color: red;
+}
+
+.ingredientes {
+  background-color: red;
+}
